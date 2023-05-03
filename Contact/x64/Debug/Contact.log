@@ -1,0 +1,6 @@
+﻿  contact.c
+D:\vs\project\Contact\contact.c(76,8): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+D:\vs\project\Contact\contact.c(77,31): warning C4133: “函数”: 从“int [20]”到“char *”的类型不兼容
+D:\vs\project\Contact\contact.c(93,8): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+D:\vs\project\Contact\contact.c(94,31): warning C4133: “函数”: 从“int [20]”到“char *”的类型不兼容
+  Contact.vcxproj -> D:\vs\project\Contact\x64\Debug\Contact.exe
